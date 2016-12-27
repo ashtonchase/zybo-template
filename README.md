@@ -1,2 +1,2 @@
-# zybo-templete
-a template repo for a new zynq project on the digilent zybo board
+# zybo-template
+A template repository for a new zynq project on the Digilent Zybo Board.
